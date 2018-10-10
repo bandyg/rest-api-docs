@@ -10,7 +10,7 @@ host: api.fxcm.com # Replace with your hostname. You can also specify port e.g. 
 info:
   # Describe your API here, you can use GFM (https://guides.github.com/features/mastering-markdown) here
   description: |
-    The firm's REST API is a web-based API using a Websocket connection. Developers and investors will be able to utilize the API irrespective of operating system, to create custom trading applications, integrate them in FXCM's platforms, back test  and create automated trading strategies. 
+    REST API is a web-based API using a Websocket connection. Developers and investors will be able to utilize the API irrespective of operating system, to create custom trading applications, integrate them in FXCM's platforms, back test  and create automated trading strategies. 
     
     Overview
     ===============
