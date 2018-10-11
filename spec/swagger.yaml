@@ -36,8 +36,8 @@ info:
     2. A persistent access token. You can generate one from the [Trading Station web](https://tradingstation.fxcm.com/). Click on User Account > Token Management on the upper right hand of the website. For Real accounts, please send your username to api@fxcm.com, we will need to enable Rest API access. 
     3. Download Rest API PDF documents at [here](https://apiwiki.fxcorporate.com/api/RestAPI/Socket%20REST%20API%20Specs.pdf). 
     4. Start coding. You will need to reference the [socket.io library](https://socket.io/docs/client-api/) in your code. a. Using Javascript, click [here](https://www.npmjs.com/package/socket.io) b. Using Python, click [here](https://pypi.python.org/pypi/socketIO-client)
-    5. Sample code for Python at [here](https://github.com/fxcm/fxcm-api-rest-python3-example)
-    6. Sample code for Java Script at [here](https://github.com/fxcm/fxcm-api-rest-nodejs-example)
+    5. Sample code for Python at [here](https://github.com/fxcm/RestAPI/tree/master/fxcm-api-rest-python3-example)
+    6. Sample code for Java Script at [here](https://github.com/fxcm/RestAPI/tree/master/fxcm-api-rest-nodejs-example)
     7. Sample code in Netbeans Maven project at [here](https://apiwiki.fxcorporate.com/api/RestAPI/JavaRestClient.zip)
     
 
